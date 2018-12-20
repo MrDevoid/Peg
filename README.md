@@ -24,6 +24,9 @@ For example:
     1 4
     6
 Notes: The row and column goal start on 0. The meaning of the numbers in the matrix are:
->> - 0: invalid box 
->> - 2: empty box 
->> - 10: box with a piece 
+
+- 0: invalid box 
+
+- 2: empty box 
+
+- 10: box with a piece 
